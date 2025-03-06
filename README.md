@@ -1,7 +1,7 @@
 CARD GAME TEST
 CONCEPT : HACKING CARD GAME
 =================================
-For the test Inner Sight Games
+For job apply test
 
 - Installation -
 1. This Godot project was made with the Godot Engine Version 3.5.2
